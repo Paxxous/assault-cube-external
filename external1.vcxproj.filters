@@ -20,7 +20,10 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="LEARNING.md">
+    <None Include="DOCS.md">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="README.md">
       <Filter>Resource Files</Filter>
     </None>
   </ItemGroup>
